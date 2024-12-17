@@ -1,6 +1,6 @@
 # hackerkernel_task
 
-A new Flutter project.
+A new Flutter project. for the task given by hacker kernel. 
 
 ## Getting Started
 
